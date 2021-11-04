@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #*.iml
 #.gradle
 #/local.properties
@@ -15,3 +16,20 @@
 #local.properties
 /app/
 google_maps_api.xml
+=======
+*.iml
+.gradle
+/local.properties
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+>>>>>>> 8d93362eece241bbae834658d15496281e0ab765
